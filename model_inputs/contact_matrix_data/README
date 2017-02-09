@@ -1,0 +1,24 @@
+README
+
+Elizabeth Lee
+January 25, 2017
+
+----- DESCRIPTION -----
+
+totalpop_age.csv
+Source: cleaned IMS Health file
+- Column 1: Year
+- Column 2: Age bin
+- Column 3: Population Size
+
+all_ages_polymod_germany_contact_matrix_Mossong_2008.csv
+Source: supplementary information from Mossong, et al. 2008 (POLYMOD study)
+- Column 1: age bin of survey participant
+- Column 2: age bin of contact
+- Column 3: average daily number of contacts with all individuals 5-69 years old 
+
+within_group_polymod_germany_contact_matrix_Mossong_2008.csv
+Source: supplementary information from Mossong, et al. 2008 (POLYMOD study)
+- Column 1: age bin of survey participant
+- Column 2: age bin of contact
+- Column 3: average daily number of contacts with individuals within larger child (5-19 years old) and adult (20-69 years old) age groups

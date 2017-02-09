@@ -1,0 +1,40 @@
+README
+
+Elizabeth Lee
+March 29, 2016
+updated January 25, 2017
+
+----- SOURCE DATA FILES -----
+
+1) masterairmetrocodes.txt 
+	- provided the link between airport codes and MSA populations
+
+2) BTS RITA T100D Market Carriers 2005
+	- http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=310&DB_Short_Name=Air%20Carriers
+	- provided the monthly airport network data and number of enplaned passengers
+
+----- DESCRIPTION -----
+
+baseline_flight_network_undirected.txt
+- Column 1: Metro area 1
+- Column 2: Metro area 2
+- Column 3: Average number of passengers that would travel between the two metro areas over a 12 month period at "typical winter travel levels" (based on travel data from January to March 2005)
+
+holiday_flight_network_undirected.txt
+- Column 1: Metro area 1
+- Column 2: Metro area 2
+- Column 3: Average number of passengers that would travel between the two metro areas over a 12 month period at "holiday travel levels" (based on travel data from December 2005)
+
+metro_pop.csv
+- parsed from masterairmetrocodes.txt
+- metroName is Metropolitan Statistical Area (MSA) or Combined Metropolitan Statistical Area (CMSA)
+- metroNum is numeric metro area identifier in masterairmetrocodes
+- pop is population size, the data were compared to reported population sizes for a handful of MSAs and it appears that these data pre-date the 2000 Census.
+
+----- ADDITIONAL NOTES -----
+
+- self-loops (travel between the same airport) were removed
+- airports outside of metro areas listed in masterairmetrocodes.txt were removed
+- "average number of passengers over a 12 month period" was calculated as average number of passengers in a given month * 12
+- filenames ending in "_spaces" should be space-delimited
+- other files should be tab-delimited

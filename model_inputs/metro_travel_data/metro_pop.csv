@@ -1,0 +1,259 @@
+metroName,metroNum,pop
+"Allentown-Bethlehem-Easton, PA MSA",6.0,618350.0
+"Abilene, TX MSA",1.0,122478.0
+"Albuquerque, NM MSA",4.0,678820.0
+"Albany, GA MSA",2.0,117421.0
+"Waco, TX MSA",247.0,204244.0
+"Dallas-Fort Worth, TX CMSA",56.0,4909523.0
+"Alexandria, LA MSA",5.0,126775.0
+"Pittsburgh, PA MSA",185.0,2331336.0
+"Augusta-Aiken, GA-SC MSA",15.0,460826.0
+"Athens, GA MSA",13.0,140372.0
+"Albany-Schenectady-Troy, NY MSA",3.0,869474.0
+"Waterloo-Cedar Falls, IA MSA",249.0,119959.0
+"Amarillo, TX MSA",8.0,208691.0
+"Anniston, AL MSA",10.0,116541.0
+"Anchorage, AK MSA",9.0,257808.0
+"Greenville-Spartanburg-Anderson, SC MSA",100.0,929565.0
+"Lima, OH MSA",141.0,154065.0
+"Altoona, PA MSA",7.0,129937.0
+"Denver-Boulder-Greeley, CO CMSA",63.0,2417908.0
+"Naples, FL MSA",167.0,207029.0
+"Atlanta, GA MSA",14.0,3857097.0
+"Appleton-Oshkosh-Neenah, WI MSA",11.0,348100.0
+"Austin-San Marcos, TX MSA",16.0,1146050.0
+"Asheville, NC MSA",12.0,215180.0
+"Scranton--Wilkes-Barre--Hazleton, PA MSA",216.0,611492.0
+"Kalamazoo-Battle Creek, MI MSA",123.0,447164.0
+"Shreveport-Bossier City, LA MSA",220.0,377673.0
+"Hartford, CT MSA",102.0,1147504.0
+"Benton Harbor, MI MSA",22.0,159709.0
+"Bakersfield, CA MSA",17.0,642495.0
+"Mobile, AL MSA",161.0,535472.0
+"Bangor, ME MSA",18.0,91672.0
+"Birmingham, AL MSA",25.0,915077.0
+"El Paso, TX MSA",71.0,701908.0
+"Billings, MT MSA",23.0,127258.0
+"Bismarck, ND MSA",26.0,91939.0
+"Cleveland-Akron, OH CMSA",48.0,2910616.0
+"Bellingham, WA MSA",21.0,160310.0
+"Bloomington, IN MSA",27.0,116923.0
+"Bloomington-Normal, IL MSA",28.0,145477.0
+"Nashville, TN MSA",168.0,1171755.0
+"Boise City, ID MSA",29.0,407844.0
+"Boston-Worcester-Lawrence, MA-NH-ME-CT CMSA",30.0,5667225.0
+"Beaumont-Port Arthur, TX MSA",20.0,376256.0
+"Brownsville-Harlingen-San Benito, TX MSA",31.0,329131.0
+"Baton Rouge, LA MSA",19.0,578946.0
+"Burlington, VT MSA",34.0,165917.0
+"Buffalo-Niagara Falls, NY MSA",33.0,1142121.0
+"Washington-Baltimore, DC-MD-VA-WV CMSA",248.0,7359044.0
+"Cumberland, MD-WV MSA",55.0,98231.0
+"Chattanooga, TN-GA MSA",42.0,452034.0
+"Charlottesville, VA MSA",41.0,151267.0
+"Charleston-North Charleston, SC MSA",39.0,552803.0
+"Chico-Paradise, CA MSA",45.0,195220.0
+"Cedar Rapids, IA MSA",36.0,184891.0
+"Iowa City, IA MSA",111.0,103813.0
+"Clarksville-Hopkinsville, TN-KY MSA",47.0,201352.0
+"Bryan-College Station, TX MSA",32.0,134213.0
+"Charlotte-Gastonia-Rock Hill, NC-SC MSA",40.0,1417217.0
+"Columbus, OH MSA",53.0,1489487.0
+"Champaign-Urbana, IL MSA",37.0,170272.0
+"Colorado Springs, CO MSA",49.0,499994.0
+"Columbia, MO MSA",50.0,130179.0
+"Casper, WY MSA",35.0,63157.0
+"St Louis, MO-IL MSA",229.0,2569029.0
+"Myrtle Beach, SC MSA",166.0,178550.0
+"Jacksonville, FL MSA",115.0,1056332.0
+"Corpus Christi, TX MSA",54.0,387105.0
+"Charleston, WV MSA",38.0,251199.0
+"Columbus, GA-AL MSA",52.0,271417.0
+"Cincinnati-Hamilton, OH-KY-IN CMSA",46.0,1960995.0
+"Wausau, WI MSA",250.0,123584.0
+"Cheyenne, WY MSA",43.0,78877.0
+"Daytona Beach, FL MSA",59.0,474711.0
+"Dayton-Springfield, OH MSA",60.0,958698.0
+"Dubuque, IA MSA",68.0,88112.0
+"Decatur, AL MSA",61.0,143460.0
+"Decatur, IL MSA",62.0,113219.0
+"Detroit-Ann Arbor-Flint, MI CMSA",65.0,5469312.0
+"Dothan, AL MSA",66.0,135243.0
+"Duluth-Superior, MN-WI MSA",69.0,236400.0
+"Tucson, AZ MSA",240.0,803618.0
+"Danville, VA MSA",57.0,107555.0
+"Dover, DE MSA",67.0,126048.0
+"Chicago-Gary-Kenosha, IL-IN-WI CMSA",44.0,8885919.0
+"Des Moines, IA MSA",64.0,443496.0
+"Eau Claire, WI MSA",70.0,144463.0
+"Houston-Galveston-Brazoria, TX CMSA",107.0,4493741.0
+"Elkhart-Goshen, IN MSA",72.0,174680.0
+"Elmira, NY MSA",73.0,91738.0
+"Enid, OK MSA",74.0,56954.0
+"Erie, PA MSA",75.0,276993.0
+"Eugene-Springfield, OR MSA",76.0,314901.0
+"Evansville-Henderson, IN-KY MSA",77.0,291181.0
+"New York-Northern New Jersey-Long Island, NY-NJ-CT-PA CMSA",171.0,20196649.0
+"Fargo-Moorhead, ND-MN MSA",78.0,170122.0
+"Fresno, CA MSA",89.0,879829.0
+"Fayetteville, NC MSA",79.0,283650.0
+"Flagstaff, AZ-UT MSA",81.0,120652.0
+"Miami-Fort Lauderdale, FL CMSA",157.0,3711102.0
+"Florence, SC MSA",83.0,125229.0
+"Fort Myers-Cape Coral, FL MSA",85.0,400542.0
+"Fort Collins-Loveland, CO MSA",84.0,236849.0
+"Topeka, KS MSA",239.0,170773.0
+"Fort Pierce-Port St Lucie, FL MSA",86.0,299967.0
+"Sioux Falls, SD MSA",222.0,164481.0
+"Fort Smith, AR-OK MSA",87.0,195547.0
+"Fort Wayne, IN MSA",88.0,484320.0
+"Fayetteville-Springdale-Rogers, AR MSA",80.0,285017.0
+"Gadsden, AL MSA",90.0,103472.0
+"Spokane, WA MSA",224.0,409736.0
+"Grand Forks, ND-MN MSA",93.0,95461.0
+"Longview-Marshall, TX MSA",144.0,209493.0
+"Grand Junction, CO MSA",94.0,115147.0
+"Gainesville, FL MSA",91.0,198484.0
+"New London-Norwich, CT-RI MSA",169.0,284087.0
+"Biloxi-Gulfport-Pascagoula, MS MSA",24.0,353205.0
+"Green Bay, WI MSA",97.0,216522.0
+"Killeen-Temple, TX MSA",125.0,296316.0
+"Grand Rapids-Muskegon-Holland, MI MSA",95.0,1052092.0
+"Goldsboro, NC MSA",92.0,111711.0
+"Greensboro--Winston-Salem--High Point, NC MSA",98.0,1179384.0
+"Great Falls, MT MSA",96.0,78282.0
+"Salt Lake City-Ogden, UT MSA",206.0,1275076.0
+"Hickory-Morganton-Lenoir, NC MSA",104.0,325821.0
+"Honolulu, HI MSA",105.0,864571.0
+"Huntsville, AL MSA",109.0,343418.0
+"Huntington-Ashland, WV-KY-OH MSA",108.0,312447.0
+"Terre Haute, IN MSA",236.0,148206.0
+"Houma, LA MSA",106.0,194591.0
+"Wichita, KS MSA",253.0,548714.0
+"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD CMSA",183.0,5999034.0
+"Wilmington, NC MSA",255.0,222109.0
+"Indianapolis, IN MSA",110.0,1536665.0
+"Williamsport, PA MSA",254.0,116709.0
+"Jackson, MS MSA",113.0,432647.0
+"Jonesboro, AR MSA",121.0,77668.0
+"Jamestown, NY MSA",117.0,137431.0
+"Joplin, MO MSA",122.0,149981.0
+"Johnstown, PA MSA",120.0,233794.0
+"Janesville-Beloit, WI MSA",118.0,151121.0
+"Jackson, MI MSA",112.0,157271.0
+"Lafayette, IN MSA",129.0,175439.0
+"Lakeland-Winter Haven, FL MSA",132.0,457347.0
+"Lansing-East Lansing, MI MSA",134.0,450789.0
+"Las Vegas, NV-AZ MSA",137.0,1381086.0
+"Lawton, OK MSA",138.0,106621.0
+"Los Angeles-Riverside-Orange County, CA CMSA",145.0,16036587.0
+"Lubbock, TX MSA",147.0,227890.0
+"Lake Charles, LA MSA",131.0,180607.0
+"Lewiston-Auburn, ME MSA",139.0,88977.0
+"Lexington, KY MSA",140.0,455617.0
+"Norfolk-Virginia Beach-Newport News, VA-NC MSA",172.0,1562635.0
+"Lafayette, LA MSA",130.0,377238.0
+"Little Rock-North Little Rock, AR MSA",143.0,559074.0
+"Lincoln, NE MSA",142.0,237657.0
+"Lancaster, PA MSA",133.0,460035.0
+"Laredo, TX MSA",135.0,193180.0
+"Las Cruces, NM MSA",136.0,170361.0
+"La Crosse, WI-MN MSA",128.0,121927.0
+"Phoenix-Mesa, AZ MSA",184.0,3013696.0
+"Lynchburg, VA MSA",148.0,208835.0
+"Odessa-Midland, TX MSA",174.0,242238.0
+"Saginaw-Bay City-Midland, MI MSA",205.0,400753.0
+"Merced, CA MSA",156.0,200746.0
+"Tampa-St Petersburg-Clearwater, FL MSA",235.0,2278169.0
+"Kansas City, MO-KS MSA",124.0,1755899.0
+"Macon, GA MSA",149.0,321586.0
+"Orlando, FL MSA",177.0,1535004.0
+"Harrisburg-Lebanon-Carlisle, PA MSA",101.0,618375.0
+"Memphis, TN-AR-MS MSA",155.0,1105058.0
+"Mansfield, OH MSA",151.0,176617.0
+"McAllen-Edinburg-Mission, TX MSA",152.0,534907.0
+"Medford-Ashland, OR MSA",153.0,175822.0
+"Montgomery, AL MSA",164.0,322441.0
+"Sacramento-Yolo, CA CMSA",204.0,1741002.0
+"Muncie, IN MSA",165.0,115472.0
+"Milwaukee-Racine, WI CMSA",158.0,1648199.0
+"Jackson, TN MSA",114.0,101611.0
+"Melbourne-Titusville-Palm Bay, FL MSA",154.0,470365.0
+"Davenport-Moline-Rock Island, IA-IL MSA",58.0,358842.0
+"Monroe, LA MSA",163.0,146672.0
+"Columbia, SC MSA",51.0,516251.0
+"Modesto, CA MSA",162.0,436790.0
+"Florence, AL MSA",82.0,136879.0
+"Madison, WI MSA",150.0,428563.0
+"Missoula, MT MSA",160.0,89344.0
+"Minneapolis-St Paul, MN-WI MSA",159.0,2872109.0
+"New Orleans, LA MSA",170.0,1305479.0
+"San Diego, CA MSA",209.0,2820844.0
+"Pensacola, FL MSA",181.0,403384.0
+"Yuma, AZ MSA",258.0,135614.0
+"Jacksonville, NC MSA",116.0,142480.0
+"San Francisco-Oakland-San Jose, CA CMSA",210.0,6873645.0
+"Ocala, FL MSA",173.0,245975.0
+"Omaha, NE-IA MSA",176.0,698875.0
+"Oklahoma City, OK MSA",175.0,1046283.0
+"Kokomo, IN MSA",127.0,100377.0
+"Owensboro, KY MSA",178.0,91179.0
+"Panama City, FL MSA",179.0,147958.0
+"West Palm Beach-Boca Raton, FL MSA",251.0,1049420.0
+"Portland-Salem, OR-WA CMSA",188.0,2180996.0
+"Greenville, NC MSA",99.0,127960.0
+"Peoria-Pekin, IL MSA",182.0,346480.0
+"Hattiesburg, MS MSA",103.0,113054.0
+"Pocatello, ID MSA",186.0,74881.0
+"Parkersburg-Marietta, WV-OH MSA",180.0,149366.0
+"Sherman-Denison, TX MSA",219.0,103728.0
+"Richland-Kennewick-Pasco, WA MSA",197.0,184626.0
+"Pueblo, CO MSA",191.0,136987.0
+"Providence-Fall River-Warwick, RI-MA MSA",189.0,1125639.0
+"Provo-Orem, UT MSA",190.0,346997.0
+"Portland, ME MSA",187.0,234814.0
+"Rapid City, SD MSA",193.0,88117.0
+"Redding, CA MSA",195.0,164530.0
+"Reading, PA MSA",194.0,358211.0
+"Raleigh-Durham-Chapel Hill, NC MSA",192.0,1105535.0
+"Rockford, IL MSA",202.0,358640.0
+"Richmond-Petersburg, VA MSA",198.0,961416.0
+"Utica-Rome, NY MSA",244.0,293068.0
+"Reno, NV MSA",196.0,319816.0
+"Roanoke, VA MSA",199.0,227741.0
+"Rochester, NY MSA",201.0,1079073.0
+"Rochester, MN MSA",200.0,119077.0
+"Rocky Mount, NC MSA",203.0,147028.0
+"Santa Fe, NM MSA",213.0,142509.0
+"San Antonio, TX MSA",208.0,1564949.0
+"Savannah, GA MSA",215.0,288426.0
+"Santa Barbara-Santa Maria-Lompoc, CA MSA",212.0,391071.0
+"Sheboygan, WI MSA",218.0,110136.0
+"South Bend, IN MSA",223.0,258537.0
+"San Luis Obispo-Atascadero-Paso Robles, CA MSA",211.0,236953.0
+"State College, PA MSA",230.0,132190.0
+"Stockton-Lodi, CA MSA",231.0,563183.0
+"Louisville, KY-IN MSA",146.0,1005849.0
+"Seattle-Tacoma-Bremerton, WA CMSA",217.0,3465760.0
+"Springfield, MO MSA",226.0,308332.0
+"San Angelo, TX MSA",207.0,102300.0
+"Springfield, IL MSA",225.0,204030.0
+"Wichita Falls, TX MSA",252.0,136493.0
+"Sarasota-Bradenton, FL MSA",214.0,550077.0
+"Sumter, SC MSA",232.0,112412.0
+"St Cloud, MN MSA",227.0,164913.0
+"St Joseph, MO MSA",228.0,97220.0
+"Sioux City, IA-NE MSA",221.0,120577.0
+"Syracuse, NY MSA",233.0,732920.0
+"Tuscaloosa, AL MSA",242.0,161435.0
+"Tallahassee, FL MSA",234.0,260003.0
+"Visalia-Tulare-Porterville, CA MSA",246.0,358470.0
+"Toledo, OH MSA",238.0,608976.0
+"Johnson City-Kingsport-Bristol, TN-VA MSA",119.0,462769.0
+"Tulsa, OK MSA",241.0,786117.0
+"Texarkana, TX-Texarkana, AR MSA",237.0,122886.0
+"Tyler, TX MSA",243.0,169693.0
+"Knoxville, TN MSA",126.0,672087.0
+"Victoria, TX MSA",245.0,82087.0
+"Yakima, WA MSA",256.0,220785.0
+"Youngstown-Warren, OH MSA",257.0,589236.0
