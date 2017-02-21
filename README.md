@@ -19,7 +19,7 @@ experiment_functions.py
 * This script defines the temporary changes to the contact matrix that are associated with "school closure" interventions.
 
 population_parameters.py
-* This script imports the POLYMOD contact matrix from Germany, which includes small age bins, and aggregates the information into a 2x2 child and adult contact matrix, adjusted by the age structure of the U.S. population.
+* This script imports the POLYMOD contact matrix from Germany ([Mossong, et al. 2008](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050074)), which includes small age bins, and aggregates the information into a 2x2 child and adult contact matrix, adjusted by the age structure of the U.S. population.
 
 intervention_settings.py
 * This script switches on/off holiday-associated behavioral changes and indicates which specific school closure or travel interventions should be used. See "Changing intervention settings" below.
